@@ -9,7 +9,6 @@ public class SarumanAndLannisters {
 
         int totalCountOfLannistersAndOrcsSaruman = countOfInfantrymenLannisters + countOfOrcsSaruman;
         System.out.println("Всего пехоты в союзе Ланнистеров и Сарумана было " + totalCountOfLannistersAndOrcsSaruman + " человек(а).");
-
     }
 
 }
